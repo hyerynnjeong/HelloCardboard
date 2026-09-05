@@ -81,3 +81,13 @@ turn the game into more of a deliberate matching challenge than a reaction one.
 Built for iOS, opened the generated Xcode project, signed with a personal Apple
 ID, and deployed to a physical iPhone in a Google Cardboard viewer. See the
 deployment photos in this repo.
+
+## Deployment Photos
+
+Fruit game (Step 6) in Google Cardboard:
+
+![Fruit game](FruitGame.HEIC)
+
+Ball game (Step 5) in Google Cardboard:
+
+![Ball game](Target.HEIC)
