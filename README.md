@@ -90,4 +90,4 @@ Fruit game (Step 6) in Google Cardboard:
 
 Ball game (Step 5) in Google Cardboard:
 
-![Ball game](Target.HEIC)
+![Ball game](BallGame.HEIC)
