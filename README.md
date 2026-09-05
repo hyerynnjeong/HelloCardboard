@@ -86,8 +86,8 @@ deployment photos in this repo.
 
 Fruit game (Step 6) in Google Cardboard:
 
-![Fruit game](FruitGame.HEIC)
+![Fruit game](FruitGame.png)
 
 Ball game (Step 5) in Google Cardboard:
 
-![Ball game](BallGame.HEIC)
+![Ball game](BallGame.png)
